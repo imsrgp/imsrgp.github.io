@@ -442,7 +442,9 @@ a.buttons:hover {
 section {
 /*    width:650px;*/
     width:800px;
-    float:right;
+/*    float:right;*/
+    float:left;
+    padding-left: 100px;
     padding-bottom:50px;
 }
 
@@ -454,7 +456,8 @@ footer {
     float:left;
     position:fixed;
     bottom:10px;
-    padding-left: 50px;
+/*    padding-left: 50px;*/
+    padding-left: 100px;
 }
 
 @media print, screen and (max-width: 960px) {
