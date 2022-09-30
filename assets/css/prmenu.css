@@ -55,8 +55,7 @@ div.prmenu_container ul li a {
 	width: 100%;
 	text-align: center;
 	text-decoration: none;
-/*	border-right: 1px solid #cfcfcf;*/
-	border-right: 0px solid #0000cf;
+	border-right: 1px solid #cfcfcf;
 	box-sizing: border-box;
 	padding-left: 5%;
 	padding-right: 5%;
