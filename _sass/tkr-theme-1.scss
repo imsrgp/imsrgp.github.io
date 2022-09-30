@@ -203,8 +203,7 @@ table {
 }
 
 table {
-/*    border: 1px solid #ccc;*/
-    border: 0px solid #00ff00;
+    border: 1px solid #ccc;
     margin-bottom: 32px;
     text-align: left;
  }
@@ -232,7 +231,8 @@ td {
 
 /* Header */
 header {
-    background-color: #111177;
+/*    background-color: #111177;*/
+    background-color: #00ffff;
     color: #FDFDFB;
     width:170px;
     float:left;
