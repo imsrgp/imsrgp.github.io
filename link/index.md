@@ -1,7 +1,4 @@
-# 外部リンク
+#### 外部リンク
 
-1. [小樽商科大学](https://www.otaru-uc.ac.jp)
-
-## ぶんぶんぶん
-
-このーきなんのききになるきー
+- [北海道国立大学機構](https://www.nuc-hokkaido.ac.jp)
+- [小樽商科大学](https://www.otaru-uc.ac.jp)
