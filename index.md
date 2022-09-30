@@ -1,4 +1,4 @@
-<h2>社情の会@OUC</h2>
+<p>社情の会@OUC</p>
 <p>All your dreams can come true, if we have the courage to pursue them. --Walt Disney</p>
 
 ### お知らせ
