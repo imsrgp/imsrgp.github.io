@@ -449,7 +449,7 @@ section {
     width:800px;
 /*    float:right;*/
     float:left;
-    padding-left: 100px;
+    padding-left: 150px;
     padding-bottom:50px;
 }
 
@@ -458,11 +458,12 @@ section {
 
 footer {
     width:800px;
-    float:left;
+/*    float:left;*/
+    float:right;
     position:fixed;
     bottom:10px;
 /*    padding-left: 50px;*/
-    padding-left: 100px;
+/*    padding-left: 100px;*/
 }
 
 @media print, screen and (max-width: 960px) {
