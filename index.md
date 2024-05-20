@@ -1,6 +1,8 @@
 ## お知らせ
 
 - 令和5年度から小樽商大公認の研究会になりました。（令和5年4月24日）
+- 右下のアイコンをクリックすると、インタラクションベースの検索窓が開きます。  
+  ※ 研究者や研究論文を見つけ出すことができます。
 
 <link rel="stylesheet" href="https://www.gstatic.com/dialogflow-console/fast/df-messenger/prod/v1/themes/df-messenger-default.css">
 <script src="https://www.gstatic.com/dialogflow-console/fast/df-messenger/prod/v1/df-messenger.js"></script>
