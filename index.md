@@ -1,30 +1,15 @@
 ## お知らせ
 
 - 令和5年度から小樽商大公認の研究会になりました。（令和5年4月24日）
-- 右下のアイコンをクリックすると、インタラクションベースの検索窓が開きます。  
-  ※ 研究者や研究論文を見つけ出すことができます。
 
-<link rel="stylesheet" href="https://www.gstatic.com/dialogflow-console/fast/df-messenger/prod/v1/themes/df-messenger-default.css">
-<script src="https://www.gstatic.com/dialogflow-console/fast/df-messenger/prod/v1/df-messenger.js"></script>
-<df-messenger
-  project-id="rosy-stronghold-420605"
-  agent-id="8f2cc65e-b59c-411a-a180-32a52974b105"
-  language-code="ja"
-  max-query-length="-1">
-  <df-messenger-chat-bubble
-   chat-title="">
-  </df-messenger-chat-bubble>
-</df-messenger>
-<style>
-  df-messenger {
-    z-index: 999;
-    position: fixed;
-    --df-messenger-font-color: #000;
-    --df-messenger-font-family: Google Sans;
-    --df-messenger-chat-background: #f3f6fc;
-    --df-messenger-message-user-background: #d3e3fd;
-    --df-messenger-message-bot-background: #fff;
-    bottom: 16px;
-    right: 16px;
-  }
-</style>
+<!-- Widget JavaScript bundle -->
+<script src="https://cloud.google.com/ai/gen-app-builder/client?hl=ja"></script>
+
+<!-- Search widget element is not visible by default -->
+<gen-search-widget
+  configId="b9ec0bf6-849f-4b90-9109-1b193a87e540"
+  triggerId="searchWidgetTrigger">
+</gen-search-widget>
+
+<!-- Element that opens the widget on click. It does not have to be an input -->
+<input placeholder="ここで検索" id="searchWidgetTrigger" />
