@@ -10,5 +10,5 @@
   configId="5cd708e8-9bdb-4589-b90d-12ab580396f0"
   triggerId="searchWidgetTrigger">
 </gen-search-widget>
-<input placeholder=“研究者検索” id="searchWidgetTrigger" />
+<input placeholder=“ここで検索” id="searchWidgetTrigger" />
 
