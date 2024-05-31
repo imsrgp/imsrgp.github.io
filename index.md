@@ -12,16 +12,3 @@
 </gen-search-widget>
 <input placeholder=“研究者検索” id="searchWidgetTrigger" />
 
-<!-- Search widget element is not visible by default -->
-<gen-search-widget
-  configId="10551214-d8c6-470e-9628-0e371e98c2c4"
-  triggerId="searchWidgetTrigger">
-</gen-search-widget>
-<input placeholder=“卒論検索” id="searchWidgetTrigger" />
-
-<!-- Search widget element is not visible by default -->
-<gen-search-widget
-  configId="b9ec0bf6-849f-4b90-9109-1b193a87e540"
-  triggerId="searchWidgetTrigger">
-</gen-search-widget>
-<input placeholder=“エバーグリーン講義検索" id="searchWidgetTrigger" />
