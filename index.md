@@ -3,7 +3,7 @@
 - 令和5年度から小樽商大公認の研究会になりました。（令和5年4月24日）
 
 <!-- Widget JavaScript bundle -->
-<script src="https://cloud.google.com/ai/gen-app-builder/client?hl=ja"></script>
+<script src="https://cloud.google.com/ai/gen-app-builder/client?hl=ja">
 
 <!-- Search widget element is not visible by default -->
 <gen-search-widget
@@ -13,9 +13,10 @@
 
 <!-- Element that opens the widget on click. It does not have to be an input -->
 <input placeholder="研究者検索" id="searchWidgetTrigger" />
+</script>
 
 <!-- Widget JavaScript bundle -->
-<script src="https://cloud.google.com/ai/gen-app-builder/client?hl=ja"></script>
+<script src="https://cloud.google.com/ai/gen-app-builder/client?hl=ja">
 
 <!-- Search widget element is not visible by default -->
 <gen-search-widget
@@ -25,9 +26,10 @@
 
 <!-- Element that opens the widget on click. It does not have to be an input -->
 <input placeholder="卒論検索" id="searchWidgetTrigger" />
+</script>
 
 <!-- Widget JavaScript bundle -->
-<script src="https://cloud.google.com/ai/gen-app-builder/client?hl=ja"></script>
+<script src="https://cloud.google.com/ai/gen-app-builder/client?hl=ja">
 
 <!-- Search widget element is not visible by default -->
 <gen-search-widget
@@ -37,3 +39,4 @@
 
 <!-- Element that opens the widget on click. It does not have to be an input -->
 <input placeholder="エバーグリーン講義検索" id="searchWidgetTrigger" />
+</script>
